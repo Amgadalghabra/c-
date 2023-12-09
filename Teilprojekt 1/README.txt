@@ -1,1 +1,1 @@
-Berechnung eines zulaessigen Spielplans mittels Backtracking Algorithm.
+Quick- und Bubblesort mit Kommandozeilenparametern.
